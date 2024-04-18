@@ -1,0 +1,1 @@
+App_detertor_similitud_informes_V4.py es la versión final de la aplicación (back end y front end) desarrollada. El resto de los archivos de código fueron parte de la investigación y desarrollo previo que se hizo durante el proyecto.
